@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    margin-left: 5px;
+}
+
+b {
+    margin-left: 250px;
+}
+
+header {
+    background-color: orange;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+main p {
+    font-size: 35px;
+}
+
+main img {
+    width: 500px;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+footer p {
+    font-size: 20px;
+}
+
