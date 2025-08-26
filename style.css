@@ -3,29 +3,10 @@ body {
 }
 
 header {
-    margin-left: 5px;
-}
-
-b {
-    margin-left: 250px;
-}
-
-header {
     background-color: orange;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-header a {
-    text-decoration: none;
-}
-
-main p {
     font-size: 35px;
-}
-
-main img {
-    width: 500px;
 }
 
 footer {
@@ -34,5 +15,17 @@ footer {
 
 footer p {
     font-size: 20px;
+}
+
+main {
+    background-color: #D9D9D9;
+}
+
+header b {
+    margin-left: 250px;
+}
+
+header a {
+    text-decoration: none;
 }
 
